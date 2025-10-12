@@ -44,7 +44,7 @@ export function Hero() {
           <div className="relative w-64 h-64 md:w-80 md:h-80">
             <div className="absolute inset-0 rounded-full bg-gradient-to-br from-primary/20 to-primary/5 blur-2xl animate-pulse"></div>
             <img
-              src="/profile.jpg"
+              src="/profile.JPG"
               alt="MD Faiaz Fahim"
               className="relative w-full h-full rounded-full object-cover border-4 border-primary/30 shadow-2xl shadow-primary/20"
             />
