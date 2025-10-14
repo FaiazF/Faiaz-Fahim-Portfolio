@@ -121,18 +121,6 @@ const projects: Project[] = [
     category: "code",
   },
   {
-    title: "Axe Game",
-    description: "A simple 2D game made with C++ and Raylib.",
-    mediaType: "video",
-    videoUrl: "https://www.youtube.com/embed/P0nUVYu8BXY?si=4k5Gt0gVm9rHQzuI", //video URL
-    links: [
-      { label: "Gameplay", url: "https://youtu.be/P0nUVYu8BXY?si=KiKlcyFy_Gn-Tig6" },
-      { label: "GitHub", url: "https://github.com/FaiazF/Axe_Game" },
-    ],
-    tags: ["C++", "Raylib", "2D", "Game"],
-    category: "code",
-  },
-  {
     title: "MobiPhysio Dataset",
     description: "A 2D Video Dataset of Physical Rehabilitation - Bachelor's thesis project.",
     mediaType: "image",
@@ -152,6 +140,18 @@ const projects: Project[] = [
       { label: "Project Document", url: "https://drive.google.com/file/d/10tzfCC-k5SmOXiR0RHexs-1tUKjOmZYv/view" },
     ],
     tags: ["Web Development", "Healthcare", "Frontend", "HTML", "CSS", "Javascript", "Full Stack"],
+    category: "code",
+  },
+  {
+    title: "Axe Game",
+    description: "A simple 2D game made with C++ and Raylib.",
+    mediaType: "video",
+    videoUrl: "https://www.youtube.com/embed/P0nUVYu8BXY?si=4k5Gt0gVm9rHQzuI", //video URL
+    links: [
+      { label: "Gameplay", url: "https://youtu.be/P0nUVYu8BXY?si=KiKlcyFy_Gn-Tig6" },
+      { label: "GitHub", url: "https://github.com/FaiazF/Axe_Game" },
+    ],
+    tags: ["C++", "Raylib", "2D", "Game"],
     category: "code",
   },
   {
