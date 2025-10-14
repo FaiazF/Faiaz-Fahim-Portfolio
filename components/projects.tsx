@@ -97,6 +97,18 @@ const projects: Project[] = [
   },
   // Code Projects
   {
+    title: "Marriage Biodata Template",
+    description: "An interactive, printable, and customizable Marriage Biodata Form - Leisure project.",
+    mediaType: "image",
+    imageUrl: "/Marriage_Biodata_Template.png",
+    links: [
+      { label: "Live Demo", url: "https://marriage-biodata-template.vercel.app/" },
+      { label: "GitHub", url: "https://github.com/FaiazF/Marriage_Biodata_Template" },
+    ],
+    tags: ["Web Development", "Frontend", "HTML", "CSS", "Javascript", "TailwindCSS"],
+    category: "code",
+  },
+  {
     title: "Run and Dodge",
     description: "A fast-paced endless runner game built with C++ and raylib.",
     mediaType: "video",
@@ -143,15 +155,15 @@ const projects: Project[] = [
     category: "code",
   },
   {
-    title: "Marriage Biodata Template",
-    description: "An interactive, printable, and customizable Marriage Biodata Form - Leisure project.",
+    title: "Faiaz Fahim Portfolio",
+    description: "A modern and responsive personal portfolio website showcasing my work in VR development, 3D artistry, and game development, featuring smooth animations, dynamic backgrounds, and a clean, futuristic design.",
     mediaType: "image",
-    imageUrl: "/Marriage_Biodata_Template.png",
+    imageUrl: "/Faiaz_Portfolio.png",
     links: [
-      { label: "Live Demo", url: "https://marriage-biodata-template.vercel.app/" },
-      { label: "GitHub", url: "https://github.com/FaiazF/Marriage_Biodata_Template" },
+      { label: "Live Demo", url: "https://faiaz-fahim-portfolio.vercel.app" },
+      { label: "GitHub", url: "https://github.com/FaiazF/Faiaz-Fahim-Portfolio" },
     ],
-    tags: ["Web Development", "Frontend", "HTML", "CSS", "Javascript", "TailwindCSS"],
+    tags: ["Web Development", "Healthcare", "Frontend", "HTML", "CSS", "Javascript", "Full Stack"],
     category: "code",
   },
   // 3D Projects
@@ -311,6 +323,17 @@ const projects: Project[] = [
     category: "3d",
   },
   // Graphics Projects
+  {
+    title: "Real Estate Promotional Poster Design",
+    description: "A clean and modern real estate poster designed in Adobe Illustrator to promote a premium residential property. Focused on warmth, trust, and family comfort — blending professional aesthetics with emotional appeal.",
+    mediaType: "image",
+    imageUrl: "/RealEstatePoster.png",
+    links: [
+      { label: "Behance", url: "https://www.behance.net/gallery/236526053/Real-Estate-Promotional-Poster" },
+    ],
+    tags: ["Adobe Illustrator", "Graphic Design", "Vector Art", "Digital Illutration", "AdobeIllustrator", "Minimalist", "Poster Design"],
+    category: "graphics",
+  },
   {
     title: "Folk Fest : Event Poster Design",
     description: "This poster design was created from scratch for a fictional folk music event, Folk Fest. The goal was to capture the warm, cozy, and organic vibe of traditional folk gatherings through color, form, and typography.",
