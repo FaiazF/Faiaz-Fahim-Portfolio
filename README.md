@@ -2,7 +2,9 @@
 
 A modern and responsive **personal portfolio website** showcasing my work in **VR development**, **3D artistry**, and **game development**, featuring smooth animations, dynamic backgrounds, and a clean, futuristic design.
 
-![Portfolio Preview](public/profile.jpg) <!-- (optional preview, replace with actual screenshot path) -->
+![Portfolio Preview]
+<img width="1920" height="942" alt="Screenshot 2025-10-14 130730" src="https://github.com/user-attachments/assets/33f68e78-cede-48e8-bba9-714e3936768a" />
+
 
 ---
 
