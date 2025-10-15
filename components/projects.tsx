@@ -70,6 +70,18 @@ const projects: Project[] = [
     category: "game",
   },
   {
+    title: "Endless Runner",
+    description: "Endless Runner is a fast-paced, adrenaline-fueled game built entirely in Unreal Engine. Your goal is simple — keep running, avoid obstacles, and survive as long as possible.",
+    mediaType: "video",
+    videoUrl: "https://www.youtube.com/embed/iZPvqSGdzGk?si=Bu9YF9zkXOxI9xAA", //video URL
+    links: [
+      { label: "Gameplay", url: "https://youtu.be/iZPvqSGdzGk" },
+      { label: "Itch.io", url: "https://faiazfahim.itch.io/endless-runner" },
+    ],
+    tags: ["Unreal Engine", "Platformer", "Game", "Endless", "Casual Game"],
+    category: "game",
+  },
+  {
     title: "Tardigrade",
     description:
       "A platformer game based on the microorganism tardigrade. This project was a submission for Epic Mega Jam (2019).",
