@@ -57,6 +57,18 @@ const projects: Project[] = [
   },
   // Game Projects
   {
+    title: "Recurse ",
+    description: "A dark, recursive dungeon crawler where every failure reshapes the world.",
+    mediaType: "video",
+    videoUrl: "https://www.youtube.com/embed/PA3cWPH8s9w?si=vSctKT4rP4Klt_M1", //video URL
+    links: [
+      { label: "Gameplay Trailer", url: "https://youtu.be/PA3cWPH8s9w?si=pShGORRrS0VRgzdF" },
+      { label: "Itch.io", url: "https://framework-interactive.itch.io/recurse" },
+    ],
+    tags: ["Unreal Engine", "Multiplayer", "FPS"],
+    category: "game",
+  }
+  {
     title: "Ghatok",
     description: "A team-strategy-based multiplayer first-person shooter game with immersive gameplay mechanics.",
     mediaType: "video",
