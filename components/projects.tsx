@@ -65,9 +65,9 @@ const projects: Project[] = [
       { label: "Gameplay Trailer", url: "https://youtu.be/PA3cWPH8s9w?si=pShGORRrS0VRgzdF" },
       { label: "Itch.io", url: "https://framework-interactive.itch.io/recurse" },
     ],
-    tags: ["Unreal Engine", "Multiplayer", "FPS"],
+    tags: ["Unreal Engine", "Dungeon", "Crawler", "Roguelike"],
     category: "game",
-  }
+  },
   {
     title: "Ghatok",
     description: "A team-strategy-based multiplayer first-person shooter game with immersive gameplay mechanics.",
